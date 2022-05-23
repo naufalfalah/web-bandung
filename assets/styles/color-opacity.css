@@ -1,0 +1,10 @@
+div#opacity {
+    background-color: red;
+    opacity: 0.5;
+ }
+
+ p {
+    color: rgba(78,231,23, 0.5);
+    color: hsla(104, 82%, 50%, 0.5);
+    color: #4ee717ee; /*ee merupakan digit tambahan untuk menerapkan opacity*/
+ }

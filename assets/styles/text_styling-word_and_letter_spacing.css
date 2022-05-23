@@ -1,0 +1,6 @@
+p#letter {
+    letter-spacing: 4px;
+ }
+ p#word {
+    word-spacing: 1.5em;
+ }
